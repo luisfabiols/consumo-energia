@@ -32,4 +32,4 @@ custo = consumo * valor_kwh
 print("\n--- Resultado ---")
 print("Seu aparelho:", nome_aparelho)
 print(f"Consome: {consumo:.2f} kWh")
-print(f"Gasta: R$ {custo:.2f}")
+print(f"Gasta: R$ {custo:.2f} kwh/mês")
