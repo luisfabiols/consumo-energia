@@ -32,6 +32,7 @@ V = valor do kWh (R$/kWh)
 Se estiver no GitHub:
 
 git clone https://github.com/luisfabiols/consumo-energia
+
 cd consumo-energia
 
 Ou baixe o ZIP e extraia
